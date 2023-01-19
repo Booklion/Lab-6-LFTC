@@ -1,0 +1,14 @@
+int main() {
+   int a;
+   a = 2;
+   if(a==2) 
+   {
+   	cout<<"yes";
+   };
+   while(a<>3) 
+   {
+   	cout<<"merge ba smr";
+   	a = (a + 1) * 3;	
+   };
+   return 0;
+}
